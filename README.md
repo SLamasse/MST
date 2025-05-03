@@ -1,6 +1,7 @@
 # Générateur d'Arbres Recouvrant de Poids Maximal/Minimal
 
 Ce script Python permet de construire et de visualiser l'arbre recouvrant de poids maximal ou minimal (MST) d'un graphe non orienté pondéré, à partir d'un fichier CSV. Il implémente les algorithmes de Kruskal, Prim et Borůvka.
+Il peut être utile dans le cadre de l'analyse de co-occurence
 
 ## Fonctionnalités
 
@@ -20,3 +21,6 @@ Assurez-vous d'avoir les bibliothèques Python suivantes installées :
 
 ```bash
 pip install pandas numpy networkx matplotlib typing
+```
+
+## Il reste pas mal de choses à faire .... 
